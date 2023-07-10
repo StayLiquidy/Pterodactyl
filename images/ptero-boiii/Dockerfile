@@ -1,4 +1,4 @@
-FROM ghcr.io/stefanuk12/ptero-debian-wine:dev
+FROM ghcr.io/StayLiquidy/ptero-debian-wine:dev
 
 # Installing IW4M Admin Dependencies
 USER root
